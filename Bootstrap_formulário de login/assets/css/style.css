@@ -1,0 +1,46 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #EEE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+
+h2 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.area {
+    width: 100%;
+    max-width: 350px;
+    text-align: center;
+    padding: 10px;
+}
+
+.logo{
+    width: 100px;
+    height: auto;
+}
+
+.lembrarSenha {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.input_email {
+    margin-bottom: 10px;
+}
+
+.padding {
+    padding:20px
+}
+
+.cinza {
+    color:#999999;
+}
